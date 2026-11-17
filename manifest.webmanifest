@@ -1,0 +1,16 @@
+{
+  "name": "Malyaz",
+  "short_name": "Malyaz",
+  "description": "Mehmet Ali Yaz'ın şiirleri ve makaleleri",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#16223f",
+  "theme_color": "#16223f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
